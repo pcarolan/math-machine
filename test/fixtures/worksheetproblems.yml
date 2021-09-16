@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  worksheet: one
+  problem: one
+
+two:
+  worksheet: two
+  problem: two
